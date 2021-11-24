@@ -1,16 +1,34 @@
-### Hi there 👋
+# I am a Full-Stack Software Engineer
 
-<!--
-**cguliuzza/cguliuzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Currently working on my personal portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Project Demo
+
+[Upward Spiral](https://youtu.be/Q21FRmldRZc)
+
+
+##### React Native & Ruby on Rails
+
+
+A full-stack mobile application with a React Native frontend and a Ruby on Rails backend. 
+
+Upward Spiral offers support with motivations, 5 minute moments, and a journal when you're feeling overwhelmed, stressed, anxious or depressed.
+
+
+
+	
+## Get in Touch
+
+
+christina.guliuzza@gmail.com
+
+
+[LinkedIn](https://www.linkedin.com/in/christina-guliuzza-668354133/)
+
+
+[Blog](https://tinacaptures.com/category/software-engineering/)
+
+
+<!-- This is a comment -->
