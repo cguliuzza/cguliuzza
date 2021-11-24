@@ -1,7 +1,14 @@
 # I am a Full-Stack Software Engineer
 
 
-Currently working on my personal portfolio.
+Currently working on my Personal Portfolio
+
+Creative, Technical, People Person
+
+
+* Coachable
+* Eager to learn
+* Team player
 
 
 ## Project Demo
