@@ -1,7 +1,7 @@
 # I am a Full-Stack Software Engineer
 
 
-Currently working on my Personal Portfolio
+React Software Engineer at [Really Good Emails](https://reallygoodemails.com/)!!
 
 Creative, Technical, People Person
 
