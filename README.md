@@ -11,7 +11,7 @@ Creative, Technical, People Person
 * Team player
 
 
-[![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cguliuzza&hide=issues,contribs)](https://github.com/cguliuzza/github-readme-stats)
+[![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cguliuzza&hide=issues,contribs&count_private=true&show_icons=true&theme=transparent)](https://github.com/cguliuzza/github-readme-stats)
 
 
 ## Project Demo
