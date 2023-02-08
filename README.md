@@ -1,7 +1,7 @@
-# I am a Full-Stack Software Engineer
+# I am a Front End React Software Engineer
 
 
-React Software Engineer at [Really Good Emails](https://reallygoodemails.com/)!!
+React Software Engineer at [Really Good Emails](https://reallygoodemails.com/)!
 
 Creative, Technical, People Person
 
@@ -11,12 +11,15 @@ Creative, Technical, People Person
 * Team player
 
 
+[![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cguliuzza&hide=issues,contribs)](https://github.com/cguliuzza/github-readme-stats)
+
+
 ## Project Demo
 
 [Upward Spiral](https://youtu.be/Q21FRmldRZc)
 
 
-##### React Native & Ruby on Rails
+##### React Native
 
 
 A full-stack mobile application with a React Native frontend and a Ruby on Rails backend. 
