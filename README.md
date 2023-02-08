@@ -29,9 +29,6 @@ Upward Spiral offers support with motivations, 5 minute moments, and a journal w
 ## Get in Touch
 
 
-christina.guliuzza@gmail.com
-
-
 [LinkedIn](https://www.linkedin.com/in/christina-guliuzza-668354133/)
 
 
