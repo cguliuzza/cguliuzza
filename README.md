@@ -27,7 +27,6 @@ A full-stack mobile application with a React Native frontend and a Ruby on Rails
 Upward Spiral offers support with motivations, 5 minute moments, and a journal when you're feeling overwhelmed, stressed, anxious or depressed.
 
 
-
 	
 ## Get in Touch
 
@@ -38,4 +37,4 @@ Upward Spiral offers support with motivations, 5 minute moments, and a journal w
 [Blog](https://tinacaptures.com/category/software-engineering/)
 
 
-<!-- This is a comment -->
+![](https://komarev.com/ghpvc/?username=cguliuzza&style=for-the-badge)
