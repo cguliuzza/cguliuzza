@@ -1,14 +1,10 @@
-# I am a Front End React Software Engineer
+# React Product Engineer
 
+Product and user-focused React Engineer with personable and compassionate communication skills.
 
-React Software Engineer at [Really Good Emails](https://reallygoodemails.com/)!
+I have developed and maintained end-to-end products using Javascript and React. I am particularly interested in programming customer-centric SaaS applications, with a focus on data-driven decision making and rapid growth.
 
-Creative, Technical, People Person
-
-
-* Coachable
-* Eager to learn
-* Team player
+My understanding of user experience, and data analysis enables me to make informed product decisions. My colleagues have described me as detail-oriented, patient, and reliable.
 
 
 [![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cguliuzza&hide=issues,contribs&count_private=true&show_icons=true&theme=transparent)](https://github.com/cguliuzza/github-readme-stats)
