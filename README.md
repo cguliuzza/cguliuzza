@@ -1,8 +1,10 @@
 # React Product Engineer
 
+I am available for hire and freelance work. Contact me: hello@christinaguliuzza.com
+
 Product and user-focused React Engineer with personable and compassionate communication skills.
 
-I have developed and maintained end-to-end products using Javascript and React. I am particularly interested in programming customer-centric SaaS applications, with a focus on data-driven decision making and rapid growth.
+I have developed and maintained web products using Javascript and React. I am particularly interested in programming customer-centric SaaS applications, with a focus on data-driven decision making and rapid growth.
 
 My understanding of user experience, and data analysis enables me to make informed product decisions. My colleagues have described me as detail-oriented, patient, and reliable.
 
